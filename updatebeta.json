@@ -3,15 +3,15 @@
   "version_code": 450,
   "min-version": "4.5.0",
   "min-version_code": 450,
-  "texto": "NovaPlay Beta - CorrecciÛn de errores",
+  "texto": "NovaPlay Beta - Correcci√≥n de errores",
   "force_update": false,
-  "apk_url": "https://mrghnngupolsgatcmevw.supabase.co/storage/v1/object/public/novaplaybeta/novaplaybeta.apk",
+  "apk_url": "https://github.com/hanknova/UPDATER/raw/refs/heads/main/novaplaybeta.apk",
   "changelog": [
-    "- NavegaciÛn Blindada (TV): Implementado TVGridLayoutManager para evitar pÈrdida de cursor en scroll r·pido.",
-    "- Zapping Veloz: OptimizaciÛn de cachÈ y pre-carga de elementos (Prefetching x5).",
+    "- Navegaci√≥n Blindada (TV): Implementado TVGridLayoutManager para evitar p√©rdida de cursor en scroll r√°pido.",
+    "- Zapping Veloz: Optimizaci√≥n de cach√© y pre-carga de elementos (Prefetching x5).",
     "- Blindaje R8 v75.4",
     "- Estabilidad de Red: Motores Ktor y OkHttp protegidos.",
-    "- M·ximo rendimiento en dispositivos modestos."
+    "- M√°ximo rendimiento en dispositivos modestos."
   ],
   "novacodecs": {
     "version": "1.5",
